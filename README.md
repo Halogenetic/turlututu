@@ -1,4 +1,4 @@
-# Progressive enhancement
+# Turlututu challenge
 
 ## Author :
 Halogenetic
